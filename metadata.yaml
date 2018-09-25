@@ -1,11 +1,16 @@
 _repo: The-Essentials-of-Good-Skirmishing-To-which-are-added-a-brief-system-of-common-light-infantry__57848
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57848-h/images/cover.jpg
 creator:
   author:
     agent_name: Gawler, George
     gutenberg_agent_id: '49638'
     url: http://www.gutenberg.org/2009/agents/49638
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57848#The-Essentials-of-Good-Skirmishing-To-which-are-added-a-brief-system-of-common-light-infantry_
 gutenberg_issued: '2018-09-04'
 gutenberg_type: Text
 identifiers:
